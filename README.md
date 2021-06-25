@@ -1,5 +1,7 @@
 # japanese-netlabels
-for my reference
+for my reference, in case the original source gets lost and for me to add to
+
+
 http://i.imgur.com/3IWJb.png
 16次元レコード- http://www.16dimensional.com/wp/
 
